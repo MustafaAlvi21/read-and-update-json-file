@@ -1,0 +1,41 @@
+{
+	"dna": "e88b3f16c7d815ac7c2b10bd10a64c917d0aceb7",
+	"name": "#531",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/531.png",
+	"edition": 531,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "aztec"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "flying bear"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "angry"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Future Sunglasses"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Captain"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "None"
+		}
+	]
+}

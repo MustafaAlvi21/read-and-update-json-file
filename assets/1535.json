@@ -1,0 +1,41 @@
+{
+	"dna": "117dcd0115ed89e71f1a2abfd288588591f2dda7",
+	"name": "#1535",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/1535.png",
+	"edition": 1535,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Black Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "musketeer"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "angry"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Head",
+			"value": "wild hair"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "medical mask"
+		}
+	]
+}

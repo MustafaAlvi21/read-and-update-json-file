@@ -1,0 +1,41 @@
+{
+	"dna": "95c3f64189181948bddf6fb5f88d87729ec88b93",
+	"name": "#2679",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/2679.png",
+	"edition": 2679,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "pink"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "robot 2.0"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "3d Glasses 2.0"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Captain"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "choker"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "space vape"
+		}
+	]
+}

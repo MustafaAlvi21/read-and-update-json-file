@@ -1,0 +1,41 @@
+{
+	"dna": "0e22cca535044d532e8e4dd4211dc33903e0e1e8",
+	"name": "#2708",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/2708.png",
+	"edition": 2708,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "paddington bear jack"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "3 eyes"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "None"
+		},
+		{
+			"trait_type": "Head",
+			"value": "None"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "cigarette"
+		}
+	]
+}

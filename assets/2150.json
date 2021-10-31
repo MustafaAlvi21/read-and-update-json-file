@@ -1,0 +1,41 @@
+{
+	"dna": "e8680885c0fda4a663e8646993f9227975f77042",
+	"name": "#2150",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/2150.png",
+	"edition": 2150,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "space"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Gold Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "planet tee"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Historic Glasses"
+		},
+		{
+			"trait_type": "Head",
+			"value": "baseball cap"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "beard"
+		}
+	]
+}

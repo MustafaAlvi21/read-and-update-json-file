@@ -1,0 +1,41 @@
+{
+	"dna": "d0e6d65a86ee420de408195613b14e611a6f639b",
+	"name": "#1956",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/1956.png",
+	"edition": 1956,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "SAS"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "happy"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "eyepatch"
+		},
+		{
+			"trait_type": "Head",
+			"value": "wild hair"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "cigarette"
+		}
+	]
+}

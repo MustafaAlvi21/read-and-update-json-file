@@ -1,0 +1,41 @@
+{
+	"dna": "94755369e15bb844ad2a3d0bcfe80acd63fa14f4",
+	"name": "#923",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/923.png",
+	"edition": 923,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "blue"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "planet tee"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Beanie Hat"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "space vape"
+		}
+	]
+}

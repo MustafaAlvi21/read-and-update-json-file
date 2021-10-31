@@ -1,0 +1,41 @@
+{
+	"dna": "1c842640a0dc97783c103a6dd62e187b72adfcda",
+	"name": "#2905",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/2905.png",
+	"edition": 2905,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "blue"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "pimp coat"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "happy"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "None"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Face guard"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "choker"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "beard"
+		}
+	]
+}

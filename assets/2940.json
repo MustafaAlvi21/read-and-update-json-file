@@ -1,0 +1,41 @@
+{
+	"dna": "12364ef31d209cf2f35853c8ad11d5be4faf50fa",
+	"name": "#2940",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/2940.png",
+	"edition": 2940,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "flying bear"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "annoyed"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "3d Glasses 1.0"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Space helmet"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "mouth ring"
+		}
+	]
+}

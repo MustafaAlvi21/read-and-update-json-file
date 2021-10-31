@@ -1,0 +1,41 @@
+{
+	"dna": "7d0670969bf5374952ef990243681a6b33863b88",
+	"name": "#247",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/247.png",
+	"edition": 247,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "blue"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Black Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "construction worker"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "angry"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "None"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Space helmet"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "chain"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "smoke"
+		}
+	]
+}

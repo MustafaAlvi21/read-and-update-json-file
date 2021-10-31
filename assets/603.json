@@ -1,0 +1,41 @@
+{
+	"dna": "18bf40dcd5aba1fe9c04c82373352a67e4c577c5",
+	"name": "#603",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/603.png",
+	"edition": 603,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "pink"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "biker jacket"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "4 eyes"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Green Googles Eyeglasses"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Afro"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "medical mask"
+		}
+	]
+}

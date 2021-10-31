@@ -1,0 +1,41 @@
+{
+	"dna": "6e8940c835903f9f7e0b83e9ae4e58d6473d8dbc",
+	"name": "#1728",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/1728.png",
+	"edition": 1728,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Purple"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Black Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "None"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "closed"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "3d Glasses 2.0"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Afro"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "None"
+		}
+	]
+}

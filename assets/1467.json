@@ -1,0 +1,41 @@
+{
+	"dna": "c1f257c2105cfaa131520d888f02f14351704204",
+	"name": "#1467",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/1467.png",
+	"edition": 1467,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Purple"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Degenerated 1.0"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "None"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "angry"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "3d Glasses 1.0"
+		},
+		{
+			"trait_type": "Head",
+			"value": "wild hair"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "space vape"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"dna": "dbe160b10d7e68497d4e4feae2ddf1708c1b1d76",
+	"name": "#997",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/997.png",
+	"edition": 997,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "None"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "happy"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Wrestling Masks"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "laser mouth"
+		}
+	]
+}

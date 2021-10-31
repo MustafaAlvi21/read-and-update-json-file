@@ -1,0 +1,41 @@
+{
+	"dna": "ca604de7a881d6bc565bf77aae8eb746061fe8c4",
+	"name": "#2452",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/2452.png",
+	"edition": 2452,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "pink"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "robot 1.0"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "VR Glasses 3200"
+		},
+		{
+			"trait_type": "Head",
+			"value": "baseball cap"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "cigarette"
+		}
+	]
+}

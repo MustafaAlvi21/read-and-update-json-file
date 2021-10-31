@@ -1,0 +1,41 @@
+{
+	"dna": "861988b8233a7faa228d3b4506ac57acc625876e",
+	"name": "#2025",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/2025.png",
+	"edition": 2025,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "blue"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "astronaut"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "sad"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "None"
+		},
+		{
+			"trait_type": "Head",
+			"value": "flat cap"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "bear pendant"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "cigarette"
+		}
+	]
+}

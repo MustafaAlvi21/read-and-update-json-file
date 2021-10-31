@@ -1,0 +1,41 @@
+{
+	"dna": "73df4dcf081f9db0a846722e5a0c97f56a658c55",
+	"name": "#505",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/505.png",
+	"edition": 505,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "musketeer"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Historic Glasses"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Beanie Hat"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "space necklace"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "medical mask"
+		}
+	]
+}

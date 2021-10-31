@@ -1,0 +1,41 @@
+{
+	"dna": "2f0c6a0af1eba7d36cf43f41d8009a2e6ca2c4ca",
+	"name": "#589",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/589.png",
+	"edition": 589,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "pink"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Polar Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "planet tee"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "3 eyes"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Green Googles Eyeglasses"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Space helmet"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "smoke"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"dna": "9d538077b37d1e0085c6d84871bc283d6cd19694",
+	"name": "#1558",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/1558.png",
+	"edition": 1558,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Black Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "astronaut"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "closed"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Party head"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "grass in mouth"
+		}
+	]
+}

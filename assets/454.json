@@ -1,0 +1,41 @@
+{
+	"dna": "2f23a3d5caa5c497a1b733d34444ff0d11e794df",
+	"name": "#454",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/454.png",
+	"edition": 454,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "construction worker"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "None"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Party head"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "chain"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "laser mouth"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"dna": "831e5a2e4594c16fe3cd3d7ef641cbf9160cd0d9",
+	"name": "#1226",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/1226.png",
+	"edition": 1226,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "yellow"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "planet tee"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "sad"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "specs"
+		},
+		{
+			"trait_type": "Head",
+			"value": "None"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "space necklace"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "medical mask"
+		}
+	]
+}

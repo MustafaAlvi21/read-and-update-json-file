@@ -1,0 +1,41 @@
+{
+	"dna": "f2a5665cf9cf38da4ef6f1332e77efa21a91b18c",
+	"name": "#721",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/721.png",
+	"edition": 721,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "space"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Black Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "SAS"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "specs"
+		},
+		{
+			"trait_type": "Head",
+			"value": "mohawk"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "None"
+		}
+	]
+}

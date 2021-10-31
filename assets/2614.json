@@ -1,0 +1,41 @@
+{
+	"dna": "72a0c894b2d1383cb3a16a69ee17e09c2f96dc2f",
+	"name": "#2614",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/2614.png",
+	"edition": 2614,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "yellow"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Black Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "tanktoop"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "angry"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Green Googles Eyeglasses"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Crown"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "mouth guard"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"dna": "394b37c241889490e0fda848601256ecb465520b",
+	"name": "#876",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/876.png",
+	"edition": 876,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "blue"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "None"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "specs"
+		},
+		{
+			"trait_type": "Head",
+			"value": "flat cap"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "worm necklace"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "grass in mouth"
+		}
+	]
+}

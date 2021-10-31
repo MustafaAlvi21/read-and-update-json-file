@@ -1,0 +1,41 @@
+{
+	"dna": "68d9974fa9c52bd603dd9c534868dec7bd05f47c",
+	"name": "#1800",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/1800.png",
+	"edition": 1800,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "aztec"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "pimp coat"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "sad"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "TV VR Glasses"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Captain"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "laser mouth"
+		}
+	]
+}

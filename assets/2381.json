@@ -1,0 +1,41 @@
+{
+	"dna": "3bf69d94e18f636db98f6e2235aa9a7834340ceb",
+	"name": "#2381",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/2381.png",
+	"edition": 2381,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Black Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "biker jacket"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "annoyed"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Big Sunglasses"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Bull Horns"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "space vape"
+		}
+	]
+}

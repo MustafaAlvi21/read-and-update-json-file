@@ -1,0 +1,41 @@
+{
+	"dna": "bb6cf136e9e0314cc563cffb8bed36addf579c7f",
+	"name": "#1602",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/1602.png",
+	"edition": 1602,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Black Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "astronaut"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "happy"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Space helmet"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "space necklace"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "beard"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"dna": "98cb3ec683a25f7c925f3e476fc0509c6b2c0fb6",
+	"name": "#764",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/764.png",
+	"edition": 764,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "aztec"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "planet tee"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "3d Glasses 1.0"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Wrestling Masks"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "None"
+		}
+	]
+}

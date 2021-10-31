@@ -1,0 +1,41 @@
+{
+	"dna": "53c20c97d5019ab115088bfa028c8ecf7c26c98d",
+	"name": "#2844",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/2844.png",
+	"edition": 2844,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Black Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "SAS"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "eyepatch"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Honey jar"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "bear pendant"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "cigarette"
+		}
+	]
+}

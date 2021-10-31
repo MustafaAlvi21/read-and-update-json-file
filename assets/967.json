@@ -1,0 +1,41 @@
+{
+	"dna": "cd6d02e0d0635781358e6c338c36dca0ccf6f575",
+	"name": "#967",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/967.png",
+	"edition": 967,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Purple"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Brown Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "musketeer"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "happy"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "eyepatch"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Party head"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "space necklace"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "gold teeth"
+		}
+	]
+}

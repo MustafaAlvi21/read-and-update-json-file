@@ -1,0 +1,41 @@
+{
+	"dna": "b3a430d87107611e28b9e8f1c9d36574f337895c",
+	"name": "#1021",
+	"description": "BearX",
+	"image": "https://gateway.pinata.cloud/ipfs/QmWzRWagjJ7qkGcoaeghseTs5ZArF7qKMLJBVkvfoz9kce/1021.png",
+	"edition": 1021,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "red"
+		},
+		{
+			"trait_type": "Breed",
+			"value": "Gold Bear"
+		},
+		{
+			"trait_type": "Clothes",
+			"value": "barbour jacket"
+		},
+		{
+			"trait_type": "Eyes Expression",
+			"value": "normal"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "VR Glasses 3200"
+		},
+		{
+			"trait_type": "Head",
+			"value": "wild hair"
+		},
+		{
+			"trait_type": "Neck",
+			"value": "None"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "snorkel"
+		}
+	]
+}

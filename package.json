@@ -1,0 +1,14 @@
+{
+  "name": "text_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "update-json-file": "^1.1.1"
+  }
+}
